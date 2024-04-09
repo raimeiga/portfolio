@@ -233,6 +233,13 @@ img {
   line-height: 1.8;
 }
 
+#skill-img-figma {
+  width: 39.96px;
+  height: 60px;
+  height: auto;
+  margin: auto  20px auto 10px;
+}
+
 /*--------------------------------
  About
 ---------------------------------*/
