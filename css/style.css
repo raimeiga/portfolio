@@ -285,6 +285,11 @@ img {
   margin-top: 5px;
 }
 
+.university-img,.social_tech_img {
+  margin-bottom: 80px;
+  border: solid 1px #000;
+}
+
 /*--------------------------------
  Skill
 ---------------------------------*/
